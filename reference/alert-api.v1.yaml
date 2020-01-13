@@ -2,8 +2,9 @@ openapi: 3.0.0
 info:
   title: alert-api
   version: '1.0'
+  description: alert apis
 servers:
-  - url: 'https://ppcptest-powerprotect-alert-adapter.cfd.isus.emc.com/api/alert/list'
+  - url: 'https://ppcptest-powerprotect-alert-adapter.cfd.isus.emc.com'
 paths: {}
 components:
   schemas: {}
